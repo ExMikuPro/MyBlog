@@ -4,17 +4,17 @@ import type { Translation } from "../translation";
 export const zh_CN: Translation = {
 	[Key.home]: "主页",
 	[Key.about]: "关于",
-	[Key.archive]: "归档",
+	[Key.archive]: "时间树",
 	[Key.search]: "搜索",
 
 	[Key.tags]: "标签",
-	[Key.categories]: "分类",
+	[Key.categories]: "合集",
 	[Key.recentPosts]: "最新文章",
 
 	[Key.comments]: "评论",
 
 	[Key.untitled]: "无标题",
-	[Key.uncategorized]: "未分类",
+	[Key.uncategorized]: "未收录",
 	[Key.noTags]: "无标签",
 
 	[Key.wordCount]: "字",
